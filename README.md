@@ -1,4 +1,4 @@
-# Responsive Website (Task 4 - Web Dev Internship)
+# Responsive Website 
 
 This project demonstrates how to convert a desktop-only HTML page into a **mobile-friendly layout** using **CSS media queries**.
 
@@ -22,7 +22,3 @@ This project demonstrates how to convert a desktop-only HTML page into a **mobil
 2. Use DevTools (Ctrl+Shift+M) to toggle device mode.
 3. Resize the window to see the responsive behavior.
 
-## 🔗 Submission
-
-- Upload to GitHub.
-- Submit the link via the provided form.
